@@ -1,0 +1,65 @@
+.portfolio-item {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.portfolio-info {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);  /* Centrado perfecto */
+    text-align: center;
+    background: rgba(0,0,0,0.7);  /* Fondo semitransparente opcional */
+    color: white;
+    padding: 20px;
+    width: 90%;  /* Ajusta según necesites */
+}
+div.main-logo {
+    height: 120px;
+    max-width: 160px;
+}
+
+h4.modal-title {
+	color: white;
+}
+.modal-header {
+    background: indianred;
+}
+	
+#mapaModal:link,
+#mapaModal:visited,
+#mapaModal:hover,
+#mapaModal:active {
+  color:white; 
+  text-decoration: none;
+}
+
+.hero-section .hero-content {
+    padding-top: 4em !important;
+    padding-bottom: 6em !important;
+	margin-left: 150px;
+}
+
+div.py-5, div.py-lg-5 {
+   padding: 1px  !important;
+}
+
+main.py-5, main.py-lg-5{
+   padding: 1px  !important;
+}
+
+div.col-lg-6 {
+   padding: 1px  !important;
+}
+
+.portfolio-image> figure {
+	margin-bottom: 1px !important;
+	padding: 1px !important;
+}	
+
+.row {
+	margin: 0px !important;
+}
+
+.main-logo {
+	padding: 20px !important;
+}
